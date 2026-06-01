@@ -46,7 +46,7 @@ This project was built to understand how real-world data moves from ingestion to
 
 ### Candlestick and Volume Analysis
 
-![Candlestick and Volume Analysis](images/candlestick-volume.png)
+![Candlestick and Volume Analysis](images/candlestick-volume-trend.png)
 
 ### SMA Trend
 
